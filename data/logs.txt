@@ -1,0 +1,41 @@
+2026-02-11 13:40:29 | Démarrage de l'application de supervision
+2026-02-11 13:41:36 | État de la machine m2 modifié en en_panne
+2026-02-11 13:43:15 | Machine m1 remise en service
+2026-02-11 13:48:15 | Démarrage de l'application de supervision
+2026-02-11 13:49:51 | Machine m1 remise en service
+2026-02-11 13:53:32 | Démarrage de l'application de supervision
+2026-02-11 13:53:42 | Démarrage de l'application de supervision
+2026-02-11 14:11:48 | Démarrage de l'application de supervision
+2026-02-11 14:12:34 | État de la machine m2 modifié en en_service
+2026-02-11 14:12:34 | Modification de l'état d'une machine effectuée
+2026-02-11 14:20:19 | Démarrage de l'application de supervision
+2026-02-11 14:21:46 | Ajout d'une machine effectué
+2026-02-11 14:22:16 | État de la machine m3 modifié en maintenance
+2026-02-11 14:22:16 | Modification de l'état d'une machine effectuée
+2026-02-11 14:23:18 | Mise à jour des machines selon anomalies effectuée
+2026-02-11 14:24:34 | État de la machine m3 modifié en en_panne
+2026-02-11 14:24:34 | Modification de l'état d'une machine effectuée
+2026-02-11 14:25:47 | Ajout d'une machine effectué
+2026-02-11 14:25:59 | État de la machine m3 modifié en maintenance
+2026-02-11 14:25:59 | Modification de l'état d'une machine effectuée
+2026-02-11 14:27:06 | État de la machine m1 modifié en en_service
+2026-02-11 14:27:06 | Modification de l'état d'une machine effectuée
+2026-02-11 14:27:19 | État de la machine m2 modifié en en_service
+2026-02-11 14:27:19 | Modification de l'état d'une machine effectuée
+2026-02-11 14:27:58 | État de la machine m1 modifié en en_panne
+2026-02-11 14:27:58 | Modification de l'état d'une machine effectuée
+2026-02-11 14:37:14 | Démarrage de l'application de supervision
+2026-02-11 14:39:38 | Machine m3 remise en service
+2026-02-11 14:48:23 | Démarrage de l'application de supervision
+2026-02-11 14:51:53 | Machine ajoutée : m4 | four
+2026-02-11 14:51:53 | Ajout d'une machine effectué
+2026-02-11 14:54:21 | Ajout d'un capteur effectué
+2026-02-11 14:55:21 | Capteur ajouté : c4 | Type : temperature | Machine : m4
+2026-02-11 14:55:21 | Ajout d'un capteur effectué
+2026-02-11 14:56:27 | Arrêt de l'application
+2026-02-11 21:37:02 | Démarrage de l'application de supervision
+2026-02-11 21:37:14 | Arrêt de l'application
+2026-02-11 21:37:53 | Démarrage de l'application de supervision
+2026-02-11 21:54:05 | Démarrage de l'application de supervision
+2026-02-11 21:54:42 | Arrêt de l'application
+2026-02-11 22:35:08 | Démarrage de l'application de supervision
