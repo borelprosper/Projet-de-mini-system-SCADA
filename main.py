@@ -99,15 +99,15 @@ def menu_supervision(capteurs_list, machines_list):
                 supervision.saisir_valeurs_capteurs(capteurs_list)
                 logger.enregistrer_evenement("Saisie des valeurs des capteurs effectuée")
             elif choix == 2:
-                    anomalies = supervision.verifier_seuils(capteurs_list, machines_list)
+                    anomalies = supervision.verifier_seuils_et_diagnostiquer(capteurs_list, machines_list)
                     if anomalies:
                         print("\nAnomalies détectées :")
                         for s in anomalies:
                             print(
-                            f"Capteur {s['id']} ({s['type']}) "
-                            f"sur machine {s['machine_id']} | "
-                            f"Valeur = {s['valeur']} | "
-                            f"Seuils [{s['seuil_min']} ; {s['seuil_max']}]")
+                                f"Capteur {s['id']} ({s['type']}) "
+                                f"sur machine {s['machine_id']} | "
+                                f"Valeur = {s['valeur']} | "
+                                f"Seuils [{s['seuil_min']} ; {s['seuil_max']}]")
                     else:
                         print("Aucun problème détecté")
                         machines.sauvegarder_machines(machines_list)

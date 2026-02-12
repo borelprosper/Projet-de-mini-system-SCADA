@@ -46,3 +46,65 @@
 2026-02-12 14:30:26 | Démarrage de l'application de supervision
 2026-02-12 14:31:54 | Démarrage de l'application de supervision
 2026-02-12 14:33:50 | Démarrage de l'application de supervision
+2026-02-12 18:07:37 | Démarrage de l'application de supervision
+2026-02-12 18:08:00 | Capteur c1 valeur modifiée : 30.0
+2026-02-12 18:09:17 | Capteur c2 valeur modifiée : 200.0
+2026-02-12 18:09:29 | Capteur c3 valeur modifiée : 56.0
+2026-02-12 18:09:37 | Capteur c4 valeur modifiée : 90.0
+2026-02-12 18:09:37 | Saisie des valeurs des capteurs effectuée
+2026-02-12 18:10:18 | Démarrage de l'application de supervision
+2026-02-12 18:12:44 | Démarrage de l'application de supervision
+2026-02-12 18:24:53 | Démarrage de l'application de supervision
+2026-02-12 18:26:15 | Démarrage de l'application de supervision
+2026-02-12 18:48:44 | Démarrage de l'application de supervision
+2026-02-12 18:49:01 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:49:01 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:49:01 | Diagnostic : Chute de pression (fuite possible) | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:49:01 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:52:14 | Capteur c1 valeur modifiée : 300.0
+2026-02-12 18:52:59 | Capteur c2 valeur modifiée : 1000.0
+2026-02-12 18:53:08 | Capteur c3 valeur modifiée : 14.0
+2026-02-12 18:53:16 | Capteur c4 valeur modifiée : 50.0
+2026-02-12 18:53:16 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:53:16 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:53:16 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:53:16 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:53:16 | Cycle complet de supervision effectué
+2026-02-12 18:54:05 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:54:05 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:54:05 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:54:05 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:55:16 | Capteur c1 valeur modifiée : 300.0
+2026-02-12 18:55:20 | Capteur c2 valeur modifiée : 1000.0
+2026-02-12 18:55:23 | Capteur c3 valeur modifiée : 14.0
+2026-02-12 18:55:26 | Capteur c4 valeur modifiée : 50.0
+2026-02-12 18:55:26 | Saisie des valeurs des capteurs effectuée
+2026-02-12 18:55:39 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:55:39 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:55:39 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:55:39 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:56:18 | État de la machine m1 modifié en en_service
+2026-02-12 18:56:18 | Modification de l'état d'une machine effectuée
+2026-02-12 18:56:34 | État de la machine m2 modifié en en_service
+2026-02-12 18:56:34 | Modification de l'état d'une machine effectuée
+2026-02-12 18:56:48 | État de la machine m3 modifié en en_service
+2026-02-12 18:56:48 | Modification de l'état d'une machine effectuée
+2026-02-12 18:57:07 | État de la machine m4 modifié en en_service
+2026-02-12 18:57:07 | Modification de l'état d'une machine effectuée
+2026-02-12 18:57:35 | Machine m1 mise en panne par supervision (capteur c1)
+2026-02-12 18:57:35 | Machine m2 mise en panne par supervision (capteur c2)
+2026-02-12 18:57:35 | Machine m3 mise en panne par supervision (capteur c3)
+2026-02-12 18:57:35 | Machine m4 mise en panne par supervision (capteur c4)
+2026-02-12 18:57:35 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:57:35 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:57:35 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:57:35 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:58:57 | Capteur c1 valeur modifiée : 300.0
+2026-02-12 18:59:16 | Capteur c2 valeur modifiée : 1000.0
+2026-02-12 18:59:19 | Capteur c3 valeur modifiée : 14.0
+2026-02-12 18:59:22 | Capteur c4 valeur modifiée : 50.0
+2026-02-12 18:59:22 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
+2026-02-12 18:59:22 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
+2026-02-12 18:59:22 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
+2026-02-12 18:59:22 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
+2026-02-12 18:59:22 | Cycle complet de supervision effectué
