@@ -104,10 +104,10 @@ def menu_supervision(capteurs_list, machines_list):
                         print("\nAnomalies détectées :")
                         for s in anomalies:
                             print(
-                           f"Capteur {s['id']} ({s['type']}) "
-                           f"sur machine {s['machine_id']} | "
-                         f"Valeur = {s['valeur']} | "
-                           f"Seuils [{s['seuil_min']} ; {s['seuil_max']}]")
+                            f"Capteur {s['id']} ({s['type']}) "
+                            f"sur machine {s['machine_id']} | "
+                            f"Valeur = {s['valeur']} | "
+                            f"Seuils [{s['seuil_min']} ; {s['seuil_max']}]")
                     else:
                         print("Aucun problème détecté")
                         machines.sauvegarder_machines(machines_list)
@@ -186,7 +186,7 @@ def menu_diagnostic(capteurs_list, machines_list):
                         print(
                             f"Capteur {s['id']} ({s['type']}) sur machine {s['machine_id']} | "
                             f"Valeur = {s['valeur']} | Seuils [{s['seuil_min']} ; {s['seuil_max']}]")
-            elif choix == "0":
+            elif choix == 0:
                 break
             else:
                 print("Choix invalide. Veuillez entrer un nombre entre 0 et 5.")

@@ -40,3 +40,9 @@
 2026-02-11 21:54:42 | Arrêt de l'application
 2026-02-11 22:35:08 | Démarrage de l'application de supervision
 2026-02-11 23:10:28 | Démarrage de l'application de supervision
+2026-02-12 14:12:33 | Démarrage de l'application de supervision
+2026-02-12 14:13:08 | Mise à jour des machines selon anomalies effectuée
+2026-02-12 14:26:57 | Démarrage de l'application de supervision
+2026-02-12 14:30:26 | Démarrage de l'application de supervision
+2026-02-12 14:31:54 | Démarrage de l'application de supervision
+2026-02-12 14:33:50 | Démarrage de l'application de supervision
