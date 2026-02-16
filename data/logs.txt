@@ -1,110 +1,12 @@
-2026-02-11 13:40:29 | Démarrage de l'application de supervision
-2026-02-11 13:41:36 | État de la machine m2 modifié en en_panne
-2026-02-11 13:43:15 | Machine m1 remise en service
-2026-02-11 13:48:15 | Démarrage de l'application de supervision
-2026-02-11 13:49:51 | Machine m1 remise en service
-2026-02-11 13:53:32 | Démarrage de l'application de supervision
-2026-02-11 13:53:42 | Démarrage de l'application de supervision
-2026-02-11 14:11:48 | Démarrage de l'application de supervision
-2026-02-11 14:12:34 | État de la machine m2 modifié en en_service
-2026-02-11 14:12:34 | Modification de l'état d'une machine effectuée
-2026-02-11 14:20:19 | Démarrage de l'application de supervision
-2026-02-11 14:21:46 | Ajout d'une machine effectué
-2026-02-11 14:22:16 | État de la machine m3 modifié en maintenance
-2026-02-11 14:22:16 | Modification de l'état d'une machine effectuée
-2026-02-11 14:23:18 | Mise à jour des machines selon anomalies effectuée
-2026-02-11 14:24:34 | État de la machine m3 modifié en en_panne
-2026-02-11 14:24:34 | Modification de l'état d'une machine effectuée
-2026-02-11 14:25:47 | Ajout d'une machine effectué
-2026-02-11 14:25:59 | État de la machine m3 modifié en maintenance
-2026-02-11 14:25:59 | Modification de l'état d'une machine effectuée
-2026-02-11 14:27:06 | État de la machine m1 modifié en en_service
-2026-02-11 14:27:06 | Modification de l'état d'une machine effectuée
-2026-02-11 14:27:19 | État de la machine m2 modifié en en_service
-2026-02-11 14:27:19 | Modification de l'état d'une machine effectuée
-2026-02-11 14:27:58 | État de la machine m1 modifié en en_panne
-2026-02-11 14:27:58 | Modification de l'état d'une machine effectuée
-2026-02-11 14:37:14 | Démarrage de l'application de supervision
-2026-02-11 14:39:38 | Machine m3 remise en service
-2026-02-11 14:48:23 | Démarrage de l'application de supervision
-2026-02-11 14:51:53 | Machine ajoutée : m4 | four
-2026-02-11 14:51:53 | Ajout d'une machine effectué
-2026-02-11 14:54:21 | Ajout d'un capteur effectué
-2026-02-11 14:55:21 | Capteur ajouté : c4 | Type : temperature | Machine : m4
-2026-02-11 14:55:21 | Ajout d'un capteur effectué
-2026-02-11 14:56:27 | Arrêt de l'application
-2026-02-11 21:37:02 | Démarrage de l'application de supervision
-2026-02-11 21:37:14 | Arrêt de l'application
-2026-02-11 21:37:53 | Démarrage de l'application de supervision
-2026-02-11 21:54:05 | Démarrage de l'application de supervision
-2026-02-11 21:54:42 | Arrêt de l'application
-2026-02-11 22:35:08 | Démarrage de l'application de supervision
-2026-02-11 23:10:28 | Démarrage de l'application de supervision
-2026-02-12 14:12:33 | Démarrage de l'application de supervision
-2026-02-12 14:13:08 | Mise à jour des machines selon anomalies effectuée
-2026-02-12 14:26:57 | Démarrage de l'application de supervision
-2026-02-12 14:30:26 | Démarrage de l'application de supervision
-2026-02-12 14:31:54 | Démarrage de l'application de supervision
-2026-02-12 14:33:50 | Démarrage de l'application de supervision
-2026-02-12 18:07:37 | Démarrage de l'application de supervision
-2026-02-12 18:08:00 | Capteur c1 valeur modifiée : 30.0
-2026-02-12 18:09:17 | Capteur c2 valeur modifiée : 200.0
-2026-02-12 18:09:29 | Capteur c3 valeur modifiée : 56.0
-2026-02-12 18:09:37 | Capteur c4 valeur modifiée : 90.0
-2026-02-12 18:09:37 | Saisie des valeurs des capteurs effectuée
-2026-02-12 18:10:18 | Démarrage de l'application de supervision
-2026-02-12 18:12:44 | Démarrage de l'application de supervision
-2026-02-12 18:24:53 | Démarrage de l'application de supervision
-2026-02-12 18:26:15 | Démarrage de l'application de supervision
-2026-02-12 18:48:44 | Démarrage de l'application de supervision
-2026-02-12 18:49:01 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:49:01 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:49:01 | Diagnostic : Chute de pression (fuite possible) | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:49:01 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:52:14 | Capteur c1 valeur modifiée : 300.0
-2026-02-12 18:52:59 | Capteur c2 valeur modifiée : 1000.0
-2026-02-12 18:53:08 | Capteur c3 valeur modifiée : 14.0
-2026-02-12 18:53:16 | Capteur c4 valeur modifiée : 50.0
-2026-02-12 18:53:16 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:53:16 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:53:16 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:53:16 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:53:16 | Cycle complet de supervision effectué
-2026-02-12 18:54:05 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:54:05 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:54:05 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:54:05 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:55:16 | Capteur c1 valeur modifiée : 300.0
-2026-02-12 18:55:20 | Capteur c2 valeur modifiée : 1000.0
-2026-02-12 18:55:23 | Capteur c3 valeur modifiée : 14.0
-2026-02-12 18:55:26 | Capteur c4 valeur modifiée : 50.0
-2026-02-12 18:55:26 | Saisie des valeurs des capteurs effectuée
-2026-02-12 18:55:39 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:55:39 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:55:39 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:55:39 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:56:18 | État de la machine m1 modifié en en_service
-2026-02-12 18:56:18 | Modification de l'état d'une machine effectuée
-2026-02-12 18:56:34 | État de la machine m2 modifié en en_service
-2026-02-12 18:56:34 | Modification de l'état d'une machine effectuée
-2026-02-12 18:56:48 | État de la machine m3 modifié en en_service
-2026-02-12 18:56:48 | Modification de l'état d'une machine effectuée
-2026-02-12 18:57:07 | État de la machine m4 modifié en en_service
-2026-02-12 18:57:07 | Modification de l'état d'une machine effectuée
-2026-02-12 18:57:35 | Machine m1 mise en panne par supervision (capteur c1)
-2026-02-12 18:57:35 | Machine m2 mise en panne par supervision (capteur c2)
-2026-02-12 18:57:35 | Machine m3 mise en panne par supervision (capteur c3)
-2026-02-12 18:57:35 | Machine m4 mise en panne par supervision (capteur c4)
-2026-02-12 18:57:35 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:57:35 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:57:35 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:57:35 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:58:57 | Capteur c1 valeur modifiée : 300.0
-2026-02-12 18:59:16 | Capteur c2 valeur modifiée : 1000.0
-2026-02-12 18:59:19 | Capteur c3 valeur modifiée : 14.0
-2026-02-12 18:59:22 | Capteur c4 valeur modifiée : 50.0
-2026-02-12 18:59:22 | Diagnostic : Anomalie capteur détectée | Machine m1 | Capteur c1 (debit)
-2026-02-12 18:59:22 | Diagnostic : Anomalie capteur détectée | Machine m2 | Capteur c2 (vitesse)
-2026-02-12 18:59:22 | Diagnostic : Surpression détectée | Machine m3 | Capteur c3 (pression)
-2026-02-12 18:59:22 | Diagnostic : Température anormalement basse | Machine m4 | Capteur c4 (temperature)
-2026-02-12 18:59:22 | Cycle complet de supervision effectué
+2026-02-16 08:12:44 | Démarrage de l'application de supervision
+2026-02-16 08:13:16 | Machine ajoutée : m1 | pompe
+2026-02-16 08:13:16 | Ajout d'une machine effectué
+2026-02-16 08:13:40 | Machine ajoutée : m2 | broyeur
+2026-02-16 08:13:40 | Ajout d'une machine effectué
+2026-02-16 08:14:48 | Capteur ajouté : c1 | Type : debit | Machine : m1
+2026-02-16 08:14:48 | Ajout d'un capteur effectué
+2026-02-16 08:16:07 | Capteur ajouté : vitesse | Type : vitesse | Machine : m2
+2026-02-16 08:16:07 | Ajout d'un capteur effectué
+2026-02-16 08:16:38 | Capteur supprimé : vitesse | Type : vitesse
+2026-02-16 08:16:38 | Suppression d'un capteur effectuée
+2026-02-16 08:16:58 | Ajout d'un capteur effectué

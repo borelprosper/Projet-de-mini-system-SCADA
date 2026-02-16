@@ -1,4 +1,2 @@
-m1;pompe;en_panne
-m2;broyeur;en_panne
-m3;compresseur;en_panne
-m4;four;en_panne
+m1;pompe;en_service
+m2;broyeur;en_service

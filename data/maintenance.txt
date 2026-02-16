@@ -1,4 +1,0 @@
-2026-02-11 09:44:39;m1;maintenance;pompe defectueuse
-2026-02-11 13:43:15;m1;en_service;Fin de maintenance
-2026-02-11 13:49:51;m1;en_service;Fin de maintenance
-2026-02-11 14:39:38;m3;en_service;Fin de maintenance
