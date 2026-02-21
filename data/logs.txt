@@ -10,3 +10,6 @@
 2026-02-16 08:16:38 | Capteur supprimé : vitesse | Type : vitesse
 2026-02-16 08:16:38 | Suppression d'un capteur effectuée
 2026-02-16 08:16:58 | Ajout d'un capteur effectué
+2026-02-21 19:13:55 | Démarrage de l'application de supervision
+2026-02-21 19:14:35 | Démarrage de l'application de supervision
+2026-02-21 19:15:03 | Démarrage de l'application de supervision
